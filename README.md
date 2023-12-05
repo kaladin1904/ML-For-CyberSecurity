@@ -40,5 +40,7 @@ All thes files can be found at the github link for the lab : https://github.com/
 
 
 Please see attached PDF Report for results and methodology  
+Also attached are the 3 pruned models created after pruning and reduction in validation accuracy of 2%, 4% and 10% respectively
+
 
 
