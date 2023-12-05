@@ -1,11 +1,8 @@
 # ML-For-CyberSecurity
-Assignment 4 : Backdoor Attacks
-Name: Ishan Miglani
-NetID: im2410
-
-
-
-
+Assignment 4 : Backdoor Attacks  
+Name: Ishan Miglani  
+NetID: im2410  
+ 
 
 Change the paths for the data accordingly in cells 3 and 4
 
