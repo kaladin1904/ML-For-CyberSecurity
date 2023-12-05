@@ -39,6 +39,6 @@ bad_test_path = '/data/bd/bd_test.h5'
 All thes files can be found at the github link for the lab : https://github.com/csaw-hackml/CSAW-HackML-2020/tree/master/lab3  
 
 
-Please see attached PDF Report for results  
+Please see attached PDF Report for results and methodology  
 
 
